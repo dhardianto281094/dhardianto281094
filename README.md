@@ -8,22 +8,22 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Background in **Communication Science**, experienced in **Marketing, Fintech, and Business Development**
-- 💼 Transitioning into **Data Analyst / Data Scientist** roles with a strong business sense
-- 🧠 Currently sharpening my skills in:
+- 🎓 Background in **Communication Science** with 5+ years experience in **Marketing, Fintech, and Business Development**
+- 📊 Lulusan **Bootcamp Data Analyst & Data Scientist dari Dibimbing.id**
+- 💼 Transitioning into **Data-centric roles** by combining business acumen with data-driven strategy
+- 🧠 Currently focused on:
   - Data Analysis & Visualization (Python, SQL, Power BI, Tableau)
-  - Machine Learning (Scikit-learn, TensorFlow, Time Series)
-  - End-to-End Project Deployment (Streamlit, Git, ETL pipelines)
-- 🛠️ I'm building project portfolios in areas like:
-  - **Customer Segmentation** (RFM, Clustering)
-  - **Churn Prediction**
-  - **Time Series Forecasting**
-  - **Sentiment Analysis**
-- 🗂️ View all my projects in the pinned repositories below!
+  - Machine Learning (Scikit-learn, TensorFlow, Time Series Forecasting)
+  - End-to-End Project Deployment (Streamlit, Git, ETL Pipelines)
+- 🛠️ Highlight Projects:
+  - **Customer Segmentation** using RFM + Clustering
+  - **Churn Prediction** in Digital Banking
+  - **Time Series Forecasting** for E-commerce Revenue
+  - **Sentiment Analysis** on Customer Reviews
 
 ---
 
-### 🔧 Tech Stack
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
@@ -31,27 +31,30 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhardianto281094&show_icons=true&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhardianto281094&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhardianto281094&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhardianto281094&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
 ---
 
-### 🤝 Let's Collaborate!
+### 🤝 Let's Connect & Collaborate!
 
-- 💬 Open to work in **Data, AI, Business Strategy, or Revenue Growth** roles
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/dhardianto281094/) | [Email](mailto:dhardianto281094@gmail.com)
-- 💡 Let's connect and explore how we can grow together in the data-driven world!
+- 💬 I'm open to collaboration in **Data Science, AI, Business Analytics, or Growth Strategy**
+- 📫 Reach out to me via:
+  - 🌐 [LinkedIn](https://www.linkedin.com/in/dimashardianto/)
+  - 📧 Email: [dhardianto281094@gmail.com](mailto:dimashardianto1994@gmail.com)
+
+> Let’s build something impactful together through data! 📊🚀
 
 ---
 
 ### ⚡ Fun Fact
 
-> I started in marketing, fell in love with data, and now I’m mixing both to build smart strategies 🚀
-
+> I started my journey in marketing, fell in love with data, and now I’m mixing both to craft smarter strategies for the digital era. Let's innovate together! 🌐💡
