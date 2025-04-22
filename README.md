@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Dhardianto</h1>
+<h1 align="center">Hi there 👋, I'm Dimas Hardianto</h1>
 <p align="center">
-  🚀 Data Enthusiast | Business Strategist | Digital Marketing Expert<br>
+  🚀 Data Enthusiast | Business Strategist | Digital Marketing | Sales Development<br>
   💡 Passionate about turning data into actionable insights
 </p>
 
@@ -36,12 +36,7 @@
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhardianto281094&show_icons=true&theme=tokyonight" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhardianto281094&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhardianto281094&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhardianto281094&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhardianto281094&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="800"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dhardianto281094&theme=tokyonight&margin-w=15&no-frame=true&column=6" alt="GitHub Trophies" width="100%"/> </p>
 ---
 
 ### 🤝 Let's Connect & Collaborate!
